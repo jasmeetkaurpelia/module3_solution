@@ -12,8 +12,9 @@ body {
     font-size: 16px;
 }
 
-.row{
-    width: 100%;
+.container-fluid{
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #head1 {
@@ -40,7 +41,6 @@ h3 {
 .col-12{
     border: 1px solid black;
     margin: 10px auto;
-    padding: auto;
 }
 
 
